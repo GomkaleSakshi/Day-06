@@ -1,0 +1,5 @@
+node_modules/
+react-app/dist/
+react-app/tsconfig.tsbuildinfo
+.DS_Store
+Thumbs.db
